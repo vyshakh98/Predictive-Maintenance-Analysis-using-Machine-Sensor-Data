@@ -1,4 +1,6 @@
 **Predictive Maintenance Analysis using Machine Sensor Data**
+
+
 Exploratory data analysis of industrial machine sensor data to identify the conditions most strongly associated with equipment failure — laying the groundwork for a predictive maintenance strategy.
 
 Overview
