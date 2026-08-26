@@ -89,6 +89,7 @@ Both features proved to be meaningful predictors of failure during analysis, rat
 ```
 
 **Author**
+
 Vyshakh
 
 Data Analytics|Mechanical Engineering
