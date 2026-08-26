@@ -50,15 +50,11 @@ To perform exploratory data analysis (EDA) on machine sensor data in order to id
 
 
 Two features were engineered from raw sensor data, grounded in mechanical engineering principles:
-Feature	Formula	Purpose
-`Temp_Diff_K`	Process Temp − Air Temp	Indicator of heat dissipation efficiency — a shrinking gap signals cooling issues
-`Power_W`	Torque × Angular Velocity (P = τω)	True mechanical power output, combining torque and rotational speed into one measure
 
 | Feature | Formula | Purpose |
 |---|---|---|
 | `Temp_Diff_K` | Process Temp − Air Temp | Indicator of heat dissipation efficiency — a shrinking gap signals cooling issues |
 | `Power_W` | Torque × Angular Velocity (P = τω) | True mechanical power output, combining torque and rotational speed into one measure |
-
 
 Both features proved to be meaningful predictors of failure during analysis, rather than arbitrary additions.
 
