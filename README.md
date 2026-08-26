@@ -88,23 +88,8 @@ Both features proved to be meaningful predictors of failure during analysis, rat
 └── README.md
 
 
-```
-How to Run
-Clone this repository
-```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   ```
-Install the required libraries
-```bash
-   pip install pandas numpy matplotlib seaborn jupyter
-   ```
-Launch the notebook
-```bash
-   jupyter notebook Final_Project.ipynb
-   ```
-Run all cells (`Kernel → Restart & Run All`) to reproduce the full analysis
 Author
 Vyshakh
-Mechanical Engineering | Data Analytics
+Data Analytics|Mechanical Engineering
 ---
 This project was completed as a final data analytics assignment, combining a mechanical engineering background with Python-based data analysis to explore predictive maintenance in industrial manufacturing.
