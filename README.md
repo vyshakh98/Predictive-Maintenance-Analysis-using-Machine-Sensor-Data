@@ -88,8 +88,9 @@ Both features proved to be meaningful predictors of failure during analysis, rat
 └── README.md
 ```
 
-Author
+**Author**
 Vyshakh
+
 Data Analytics|Mechanical Engineering
 ---
 This project was completed as a final data analytics assignment, combining a mechanical engineering background with Python-based data analysis to explore predictive maintenance in industrial manufacturing.
