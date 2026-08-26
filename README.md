@@ -80,7 +80,7 @@ Both features proved to be meaningful predictors of failure during analysis, rat
 
 ## **Project Structure**
 
-
+```
 
 ├── ai4i2020.csv                     # Original raw dataset
 ├── ai4i2020_cleaned.csv             # Cleaned dataset (post feature engineering)
