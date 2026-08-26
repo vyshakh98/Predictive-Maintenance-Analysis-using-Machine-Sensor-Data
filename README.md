@@ -1,9 +1,11 @@
-# **Predictive Maintenance Analysis using Machine Sensor Data**
+## **Predictive Maintenance Analysis using Machine Sensor Data**
 
 
 Exploratory data analysis of industrial machine sensor data to identify the conditions most strongly associated with equipment failure — laying the groundwork for a predictive maintenance strategy.
 
-Overview
+## **Overview**
+
+
 In manufacturing, unplanned machine downtime is one of the most costly problems a factory can face — halting production, delaying orders, and driving up repair costs. Most plants still rely on reactive maintenance (fixing machines after they break) or scheduled maintenance (servicing machines at fixed intervals, regardless of actual condition), both of which are inefficient.
 Predictive Maintenance uses real-time sensor data — temperature, torque, rotational speed, tool wear — to catch early warning signs of failure before a breakdown occurs. This project explores sensor and operational data from industrial machines to uncover the patterns and conditions most linked to failure, using Python for the full workflow: data cleaning, feature engineering, exploratory data analysis, and visualization.
 Objective
