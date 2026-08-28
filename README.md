@@ -63,9 +63,13 @@ Both features proved to be meaningful predictors of failure during analysis, rat
 
 
 -Class imbalance: Only 3.39% of machines (339 of 10,000) experienced failure — consistent with real-world industrial reliability data.
+
 -Quality grade matters: Low-quality (Type L) machines failed at nearly double the rate of High-quality (Type H) machines — 3.92% vs. 2.09%.
+
 -Torque & Power are leading predictors: Both showed the strongest individual correlation with machine failure among all numerical features.
+
 -Heat dissipation is the top failure mode: Heat Dissipation Failure (HDF) occurred most frequently (115 cases), and machines that failed consistently showed a smaller `Temp_Diff_K` — validating the engineered feature.
+
 -Failure is combinatorial: A scatter plot of Torque vs. Rotational Speed revealed two distinct failure clusters — high torque at low/moderate speed, and high speed at low torque — showing failure results from specific combinations of conditions, not any single variable.
 
 
