@@ -77,8 +77,11 @@ Both features proved to be meaningful predictors of failure during analysis, rat
 
 
 -Prioritize monitoring and maintenance around heat dissipation systems, the leading failure cause.
+
 -Implement torque and power threshold alerts, given their strong correlation with failure.
+
 -Apply quality-grade-specific maintenance schedules, since Type L machines fail nearly twice as often as Type H.
+
 -Extend this analysis into a predictive classification model (e.g., Random Forest) using the engineered features, to move from reactive to predictive maintenance.
 
 
